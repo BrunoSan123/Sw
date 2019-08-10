@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Série artigos: Desenvolvendo Bots com Microsoft Bot Framework & Node.Js by Glaucia Lemos
 
 <p align="center">
@@ -86,3 +87,8 @@ Caso queiram entrar em contato comigo, sintam-se a vontade em me adicionar em al
 <p align="center">
   <img src="https://i.imgur.com/dLSzYDT.gif"/>  
 </p>
+=======
+# Sw
+Repository made for projects on Startup Wekend
+ A busca por uma nova caçada, a busca pela inovação traz ao desenvolvimento desse bot em NODE, tanta importância. Ao longo sos períodos , ele será sempre atualizado e melhorado.
+>>>>>>> 5df5d56fead41642d184d9aea4b7972d448b3cc9
