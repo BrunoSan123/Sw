@@ -12,3 +12,5 @@ After clone,start the node with the CMD and type 'npm init', to requeste all you
 Still need a kind of Switch for a HelderBot, to give  a better response  out of the flux., but i cant in this moment made this, seems like that 'beginDialog' don´t give
 
 This is a Beta version, we are studyng the possibility of add this bot as  a virtual assistent inside Revit.
+
+The bot that we  made , is found on de SRC folder inside de mod folder 'boteng.js'
